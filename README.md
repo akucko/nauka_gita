@@ -10,3 +10,6 @@ Tutaj zmiana jakaś
   ```
   test
   ```
+## Deploy
+
+Uruchom Aplikacja.exe
