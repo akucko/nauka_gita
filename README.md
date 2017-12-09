@@ -6,6 +6,8 @@ Tutaj zmiana jakaś
 
   git status
   python costam
+  
+##  Zmiana dla Gitk?
 
   ```
   test
